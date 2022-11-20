@@ -8,7 +8,7 @@ Networker, programmer, handyman, human archive, writer, futurist, druid, poet, h
 
 ### Social links: 
 
-💬 [Mastodon](https://gladtech.social/@aschatria)
+💬   <a title="GladTech " rel="me" href="https://gladtech.social/@aschatria">Mastodon</a>
 
 💬 [dBuzz](https://d.buzz/profile/@aschatria)
 <!--
