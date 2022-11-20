@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Social links: 
+
+💬 [Mastodon](https://gladtech.social/@aschatria)
+
 <!--
 **aschatria/aschatria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
