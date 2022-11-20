@@ -1,9 +1,16 @@
 ### Hi there 👋
 
-Social links: 
+I am dedicated to the refinement of internet culture, freedom of speech, internet security and support the core ideas of decentralization, blockchain and solarpunk. 
+
+
+
+Networker, programmer, handyman, human archive, writer, futurist, druid, poet, humorist, and lesser antagonist on HIVE blockchain.
+
+### Social links: 
 
 💬 [Mastodon](https://gladtech.social/@aschatria)
 
+💬 [dBuzz](https://d.buzz/profile/@aschatria)
 <!--
 **aschatria/aschatria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
