@@ -34,8 +34,6 @@ Networker, programmer, handyman, human archive, writer, futurist, druid, poet, h
 
 ☣️  [YouTube channel](https://www.youtube.com/@aschatria)
 
-☣️  [Twitter](https://twitter.com/ascha3a)
-
 ☣️  [LinkedIn](https://www.linkedin.com/in/aschatria/)
 
 ---
