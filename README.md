@@ -2,9 +2,9 @@
 
 I am dedicated to the refinement of internet culture, freedom of speech, internet security and support the core ideas of decentralization, blockchain and solarpunk. 
 
-
-
 Networker, programmer, handyman, human archive, writer, futurist, druid, poet, humorist, and lesser antagonist on HIVE blockchain.
+
+---
 
 ### Social: 
 
@@ -12,17 +12,23 @@ Networker, programmer, handyman, human archive, writer, futurist, druid, poet, h
 
 💬 [dBuzz](https://d.buzz/profile/@aschatria) - microblogging built upon HIVE.io
 
+---
+
 ### Blog (active)  [HIVE.IO](https://hive.io)
 
 📘 <a title="Hive.BLOG" href="https://hive.blog/@aschatria/posts">HIVE.BLOG</a> - flagship of HIVE ecosystem
 
 📘 <a title="Actifit - fitness tracker" href="https://actifit.io/aschatria">ACTIFIT</a> - Crossblockchain fitness activity and rewards
 
+---
+
 ### Blogs ( currently paused, in making)
   
 📕  <a title="PranzEU decentralized movie review website" href="https://pranz.eu/">PRANZ</a> - entertainment and movies
   
 📕  [Substack](https://aschatria.substack.com/) - subscription / newsletter / blog
+
+---
 
 ### Hiatus 
 
@@ -31,6 +37,8 @@ Networker, programmer, handyman, human archive, writer, futurist, druid, poet, h
 ☣️  [Twitter](https://twitter.com/ascha3a)
 
 ☣️  [LinkedIn](https://www.linkedin.com/in/aschatria/)
+
+---
 
 
 ### Tips
