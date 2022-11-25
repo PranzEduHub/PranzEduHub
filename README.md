@@ -14,34 +14,36 @@ Networker, programmer, handyman, human archive, writer, futurist, druid, poet, h
 
 ---
 
-### Blog (active)  [HIVE.IO](https://hive.io)
+### Blogs 
 
-📘 <a title="Hive.BLOG" href="https://hive.blog/@aschatria/posts">HIVE.BLOG</a> - flagship of HIVE ecosystem
+📘 <a title="Hive.BLOG" href="https://hive.blog/@aschatria/posts">HIVE.BLOG</a> - flagship of [HIVE.IO](https://hive.io) ecosystem
 
 📘 <a title="Actifit - fitness tracker" href="https://actifit.io/aschatria">ACTIFIT</a> - Crossblockchain fitness activity and rewards
 
----
+<!--
 
-### Blogs ( currently paused, in making)
+### Blogs ( currently paused, in making) -->
   
 📕  <a title="PranzEU decentralized movie review website" href="https://pranz.eu/">PRANZ</a> - entertainment and movies
-  
+
+<!--  
 📕  [Substack](https://aschatria.substack.com/) - subscription / newsletter / blog
 
 ---
 
-### Hiatus 
+### Hiatus -->
 
-☣️  [YouTube channel](https://www.youtube.com/@aschatria)
+☣️  [YouTube](https://www.youtube.com/@aschatria)
 
+<!--
 ☣️  [LinkedIn](https://www.linkedin.com/in/aschatria/)
-
+-->
 ---
 
 
 ### Tips
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X51B49S)
  
 <!--
 **aschatria/aschatria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
