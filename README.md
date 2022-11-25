@@ -41,9 +41,11 @@ Networker, programmer, handyman, human archive, writer, futurist, druid, poet, h
 ---
 
 
-### Tips
+### Tips ( in making)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X51B49S)
+
+
  
 <!--
 **aschatria/aschatria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
