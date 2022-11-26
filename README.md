@@ -16,24 +16,14 @@ Networker, programmer, handyman, human archive, writer, futurist, druid, poet, h
 
 ### Blogs 
 
-📘 <a title="Hive.BLOG" href="https://hive.blog/@aschatria/posts">HIVE.BLOG</a> - flagship of [HIVE.IO](https://hive.io) ecosystem
+📘 <a title="Ecency" href="https://ecency.com/@aschatria/posts">ECENCY</a> - [HIVE.IO](https://hive.io) blogging blockchain
 
 📘 <a title="Actifit - fitness tracker" href="https://actifit.io/aschatria">ACTIFIT</a> - Crossblockchain fitness activity and rewards
 
-<!--
-
-### Blogs ( currently paused, in making) -->
-  
 📕  <a title="PranzEU decentralized movie review website" href="https://pranz.eu/">PRANZ</a> - entertainment and movies
 
-<!--  
-📕  [Substack](https://aschatria.substack.com/) - subscription / newsletter / blog
-
----
-
-### Hiatus -->
-
 ☣️  [YouTube](https://www.youtube.com/@aschatria)
+
 
 <!--
 ☣️  [LinkedIn](https://www.linkedin.com/in/aschatria/)
@@ -41,9 +31,11 @@ Networker, programmer, handyman, human archive, writer, futurist, druid, poet, h
 ---
 
 
-### Tips ( in making)
+### Tips 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X51B49S)
+
+<a href="https://liberapay.com/aschatria/donate"><img src="https://img.shields.io/liberapay/receives/aschatria.svg?logo=liberapay"></a>
 
 
  
