@@ -8,27 +8,18 @@ Networker, programmer, handyman, human archive, writer, futurist, druid, poet, h
 
 ### Social: 
 
-💬   <a title="GladTech " rel="me" href="https://gladtech.social/@aschatria">Mastodon</a> - GladTech instance
+💬   <b>FEDIVERSE MASTODON INSTANCES</b>: <a title="GladTech Social " rel="me" href="https://gladtech.social/@aschatria">GladTech</a> | <a title="Mastodon Social " rel="me" href="https://gladtech.social/@aschatria">Flagship</a> | <a title="Pleroma Mastodon Tech " rel="me" href="https://gladtech.social/@aschatria">Pleroma</a> <br>
 
-💬 [dBuzz](https://d.buzz/profile/@aschatria) - microblogging built upon HIVE.io
+💬 <b>BLOCKCHAIN <a href="https://hive.io">HIVE</a> FRONTENDS</b>: <a title="Ecency" href="https://ecency.com/@aschatria/posts">ECENCY decentralized blog</a> | <a title="dBuzz" href="https://d.buzz/profile/@aschatria">dBUZZ microblogging</a> | <a title="Actifit - fitness tracker" href="https://actifit.io/aschatria">ACTIFIT fitness</a>
 
----
 
 ### Blogs 
 
-📘 <a title="Ecency" href="https://ecency.com/@aschatria/posts">ECENCY</a> - [HIVE.IO](https://hive.io) blogging blockchain
-
-📘 <a title="Actifit - fitness tracker" href="https://actifit.io/aschatria">ACTIFIT</a> - Crossblockchain fitness activity and rewards
-
-📕  <a title="PranzEU decentralized movie review website" href="https://pranz.eu/">PRANZ</a> - entertainment and movies
+📕  <a title="Github central blog and portfolio" href="https://aschatria.github.io/">Github central blog</a> |  <a title="PranzEU movie review website" href="https://pranz.eu/">PRANZ entertainment and movies</a> 
 
 ☣️  [YouTube](https://www.youtube.com/@aschatria)
 
 
-<!--
-☣️  [LinkedIn](https://www.linkedin.com/in/aschatria/)
--->
----
 
 
 ### Tips 
@@ -36,6 +27,8 @@ Networker, programmer, handyman, human archive, writer, futurist, druid, poet, h
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X51B49S)
 
 <a href="https://liberapay.com/aschatria/donate"><img src="https://img.shields.io/liberapay/receives/aschatria.svg?logo=liberapay"></a>
+
+Other tipping option and places which I use to write are available at <a title="Github central blog and portfolio" href="https://aschatria.github.io/">Github blog</a>
 
 
  
