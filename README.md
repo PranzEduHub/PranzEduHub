@@ -15,9 +15,11 @@ Networker, programmer, handyman, human archive, writer, futurist, druid, poet, h
 
 ### Blogs 
 
-📕  <a title="Github central blog and portfolio" href="https://aschatria.github.io/">Github central blog</a> |  <a title="PranzEU movie review website" href="https://pranz.eu/">PRANZ entertainment and movies</a> 
+In review
 
-☣️  [YouTube](https://www.youtube.com/@aschatria)
+<!--📕  <a title="Github central blog and portfolio" href="https://aschatria.github.io/">Github central blog</a> |  <a title="PranzEU movie review website" href="https://pranz.eu/">PRANZ entertainment and movies</a> 
+
+☣️  [YouTube](https://www.youtube.com/@aschatria)-->
 
 
 
