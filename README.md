@@ -6,8 +6,11 @@ Networker, programmer, handyman, human archive, writer, futurist, druid, poet, h
 
 [![aschatria's github stats](https://github-readme-stats.vercel.app/api?username=aschatria)](https://github.com/anuraghazra/github-readme-stats)
 
-### Social: 
+### Social and Blogs
 
+In review
+
+<!--
 💬   <b>FEDIVERSE MASTODON INSTANCES</b>: <a title="GladTech Social " rel="me" href="https://gladtech.social/@aschatria">GladTech</a> | <a title="Mastodon Social " rel="me" href="https://gladtech.social/@aschatria">Flagship</a> | <a title="Pleroma Mastodon Tech " rel="me" href="https://gladtech.social/@aschatria">Pleroma</a> <br>
 
 💬 <b>BLOCKCHAIN <a href="https://hive.io">HIVE</a> FRONTENDS</b>: <a title="Ecency" href="https://ecency.com/@aschatria/posts">ECENCY decentralized blog</a> | <a title="dBuzz" href="https://d.buzz/profile/@aschatria">dBUZZ microblogging</a> | <a title="Actifit - fitness tracker" href="https://actifit.io/aschatria">ACTIFIT fitness</a>
@@ -15,11 +18,14 @@ Networker, programmer, handyman, human archive, writer, futurist, druid, poet, h
 
 ### Blogs 
 
-In review
 
-<!--📕  <a title="Github central blog and portfolio" href="https://aschatria.github.io/">Github central blog</a> |  <a title="PranzEU movie review website" href="https://pranz.eu/">PRANZ entertainment and movies</a> 
 
-☣️  [YouTube](https://www.youtube.com/@aschatria)-->
+
+📕  <a title="Github central blog and portfolio" href="https://aschatria.github.io/">Github central blog</a> |  <a title="PranzEU movie review website" href="https://pranz.eu/">PRANZ entertainment and movies</a> 
+
+☣️  [YouTube](https://www.youtube.com/@aschatria)
+
+
 
 
 
@@ -31,6 +37,8 @@ In review
 <a href="https://liberapay.com/aschatria/donate"><img src="https://img.shields.io/liberapay/receives/aschatria.svg?logo=liberapay"></a>
 
 Other tipping option and places which I use to write are available at <a title="Github central blog and portfolio" href="https://aschatria.github.io/">Github blog</a>
+
+-->
 
 
  
