@@ -1,27 +1,22 @@
-## Hi there 👋
+## About @aschatria ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faschatria&title=visitors) <a href="https://liberapay.com/aschatria/donate"><img src="https://img.shields.io/liberapay/receives/aschatria.svg?logo=liberapay"></a>
 
 I am dedicated to the refinement of internet culture, freedom of speech, internet security and support the core ideas of decentralization, blockchain and solarpunk. 
-
-## ABOUT
-
 Networker, programmer, handyman, human archive, writer, futurist, druid, poet, humorist, and lesser antagonist on HIVE blockchain.
 
-## ACTIVITY
 
 [![aschatria's github stats](https://github-readme-stats.vercel.app/api?username=aschatria)](https://github.com/anuraghazra/github-readme-stats)
 
-## LINKS
 
-**RSS newsletter:** https://openrss.org/github.com/aschatria/aschatria/issues
+[![](https://img.shields.io/github/followers/aschatria?color=%23181717&label=&logo=github&style=for-the-badge)](https://github.com/aschatria)
+[![](https://img.shields.io/badge/-WEBSITE-%23005386?logo=cloudflare&style=for-the-badge)](https://aschatria.pages.dev)
+[![](https://img.shields.io/badge/-twitter-%23005386?color=%231DA1F2&label=&logo=twitter&logoColor=%23ffffff&style=for-the-badge)](https://twitter.com/ascha3a)
+[![](https://img.shields.io/badge/-mastodon-%23005386?logo=mastodon&style=for-the-badge)](https://gladtech.social/@aschatria)
+[![](https://img.shields.io/badge/-hive-%23005386?color=%8b7355&label=&logo=hive_blockchain&logoColor=%23ffffff&style=for-the-badge)]([https://aschatria.pages.dev](https://hive.blog/@aschatria/posts))
 
-**Website:** https://aschatria.pages.dev/
 
-<b>Mastodon:</b> <a title="GladTech Social " rel="me" href="https://gladtech.social/@aschatria">https://gladtech.social/@aschatria</a> 
 
-**Hive blog:** https://hive.blog/@aschatria/posts
 
-## TIPS
 
-<a href="https://liberapay.com/aschatria/donate"><img src="https://img.shields.io/liberapay/receives/aschatria.svg?logo=liberapay"></a>
+
 
 
