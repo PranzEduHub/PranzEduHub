@@ -9,11 +9,17 @@ Our activities include networking, programming, repairs, technology, knowledge, 
 [![aschatria's github stats](https://github-readme-stats.vercel.app/api?username=aschatria)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![](https://img.shields.io/github/followers/aschatria?color=%23181717&label=&logo=github&style=for-the-badge)](https://github.com/aschatria)
-[![](https://img.shields.io/badge/-WEBSITE-%23005386?logo=cloudflare&style=for-the-badge)](https://aschatria.pages.dev)
-[![](https://img.shields.io/badge/-hive-%23005386?color=%8b7355&label=&logo=hive_blockchain&logoColor=%23ffffff&style=for-the-badge)](https://hive.blog/@aschatria/posts)
-[![](https://img.shields.io/badge/-twitter-%23005386?color=%231DA1F2&label=&logo=twitter&logoColor=%23ffffff&style=for-the-badge)](https://twitter.com/PranzApp)
-[![](https://img.shields.io/badge/-mastodon-%23005386?logo=mastodon&style=for-the-badge)](https://gladtech.social/@pranzEU)
+
+[![](https://img.shields.io/badge/-aschatria.pages.dev-%23005386?logo=cloudflare&style=for-the-badge)](https://aschatria.pages.dev)
+[![](https://img.shields.io/github/followers/aschatria?color=%23181717&label=aschatria&logo=github&style=for-the-badge)](https://github.com/aschatria)
+[![](https://img.shields.io/badge/-gladtech.social/@aschatria-%23005386?logo=mastodon&style=for-the-badge)](https://gladtech.social/@aschatria)
+[![](https://img.shields.io/badge/-hive.blog/@aschatria-%23005386?color=red&label=&logo=hive_blockchain&logoColor=%23ffffff&style=for-the-badge)](https://hive.blog/@aschatria/posts)
+
+[![](https://img.shields.io/badge/-PRANZ.EU/Website-%23005386?color=blueviolet&logo=webflow&style=for-the-badge)](https://aschatria.pages.dev)
+[![](https://img.shields.io/badge/-Pranz/Repository-%23005386?color=grey&logo=github&style=for-the-badge)](https://github.com/aschatria/aschatria.github.io)
+[![](https://img.shields.io/badge/-gladtech.social/@pranzEU-%23005386?logo=mastodon&style=for-the-badge)](https://gladtech.social/@pranzEU)
+
+
 
 
 
