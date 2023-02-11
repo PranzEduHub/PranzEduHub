@@ -2,7 +2,7 @@
 
 Aschatria is a group of individuals and administrator group for Pranz.Eu, acting as a single anonymous entity.
 
-Aschatria is dedicated to the refinement of internet culture, freedom of speech, internet security and support the core ideas of decentralization, blockchain and solarpunk. 
+Pranz.eu is dedicated to the refinement of internet culture, freedom of speech, internet security and support the core ideas of decentralization, blockchain and solarpunk. 
 
 Our activities include networking, programming, repairs, technology, knowledge, blogging and content creation, humor and creative writing, HIVE blockchain and videos. 
 
