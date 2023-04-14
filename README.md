@@ -12,17 +12,10 @@ Our activities include networking, programming, repairs, technology, knowledge, 
 
 [![](https://img.shields.io/badge/-aschatria.pages.dev-%23005386?logo=cloudflare&style=for-the-badge)](https://aschatria.pages.dev)
 [![](https://img.shields.io/github/followers/aschatria?color=%23181717&label=aschatria&logo=github&style=for-the-badge)](https://github.com/aschatria)
-[![](https://img.shields.io/badge/-PRANZ.EU/Website-%23005386?color=blueviolet&logo=webflow&style=for-the-badge)](https://pranz.eu/)
+[![](https://img.shields.io/badge/-PRANZ.EU/Website-%23005386?color=blueviolet&logo=cloudflare&style=for-the-badge)](https://pranz.eu/)
 
 
-<!--
-[![](https://img.shields.io/badge/-gladtech.social/@aschatria-%23005386?logo=mastodon&style=for-the-badge)](https://gladtech.social/@aschatria)
-[![](https://img.shields.io/badge/-ecency.com/@aschatria-%23005386?color=red&label=&logo=hive_blockchain&logoColor=%23ffffff&style=for-the-badge)](https://ecency.com/@aschatria/posts)-->
 
-
-<!--
-[![](https://img.shields.io/badge/-gladtech.social/@pranzEU-%23005386?logo=mastodon&style=for-the-badge)](https://gladtech.social/@pranzEU)
-[![](https://img.shields.io/badge/-ecency.com/@pranz-%23005386?color=red&label=&logo=hive_blockchain&logoColor=%23ffffff&style=for-the-badge)](https://ecency.com/@pranz)-->
 
 
 
