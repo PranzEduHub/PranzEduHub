@@ -8,11 +8,13 @@ Our activities include networking, programming, repairs, technology, knowledge, 
 
 [![aschatria's github stats](https://github-readme-stats.vercel.app/api?username=aschatria)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-[![](https://img.shields.io/badge/-aschatria.pages.dev-%23005386?logo=cloudflare&style=for-the-badge)](https://aschatria.pages.dev)
 [![](https://img.shields.io/github/followers/aschatria?color=%23181717&label=aschatria&logo=github&style=for-the-badge)](https://github.com/aschatria)
+
+[![](https://img.shields.io/badge/-Blog/Journal-%23005386?logo=jekyll&style=for-the-badge)](https://aschatria.pranz.eu)
+
 [![](https://img.shields.io/badge/-PRANZ.EU/Website-%23005386?color=blueviolet&logo=cloudflare&style=for-the-badge)](https://pranz.eu/)
+
+[![](https://img.shields.io/badge/-Medium/Newsletter-%23005386?color=black&logo=medium&style=for-the-badge)](https://medium.com/@PranzEduHub)
 
 
 
