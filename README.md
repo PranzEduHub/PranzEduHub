@@ -1,3 +1,6 @@
+![](https://i.imgur.com/xfD1Afg.png)
+# We are on vacation until September. 
+
 ## About @aschatria ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faschatria&title=visitors) <a href="https://liberapay.com/aschatria/donate"><img src="https://img.shields.io/liberapay/receives/aschatria.svg?logo=liberapay"></a>
 
 Aschatria is a group of individuals and administrator group for Pranz.Eu, acting as a single anonymous entity.
