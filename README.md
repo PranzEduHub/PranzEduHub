@@ -8,9 +8,9 @@ Pranz.eu is dedicated to the refinement of internet culture, freedom of speech, 
 
 Our activities include networking, programming, repairs, technology, knowledge, blogging and content creation, humor and creative writing, HIVE blockchain and videos. 
 
-[![aschatria's github stats](https://github-readme-stats.vercel.app/api?username=PranzEduHub)](https://github.com/anuraghazra/github-readme-stats)
+[![PranzEduHub github stats](https://github-readme-stats.vercel.app/api?username=PranzEduHub)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://img.shields.io/github/followers/PranzEduHub?color=%23181717&label=aschatria&logo=github&style=for-the-badge)](https://github.com/PranzEduHub)
+[![](https://img.shields.io/github/followers/PranzEduHub?color=%23181717&label=PranzEduHub&logo=github&style=for-the-badge)](https://github.com/PranzEduHub)
 
 [![](https://img.shields.io/badge/-PRANZ.EU/Website-%23005386?color=blueviolet&logo=cloudflare&style=for-the-badge)](https://pranz.eu/)
 
