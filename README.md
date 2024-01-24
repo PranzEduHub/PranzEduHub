@@ -4,9 +4,7 @@
 <!--<a href="https://liberapay.com/aschatria/donate"><img src="https://img.shields.io/liberapay/receives/aschatria.svg?logo=liberapay"></a>-->
 
 
-Pranz.eu is dedicated to the refinement of internet culture, freedom of speech, internet security and support the core ideas of decentralization, blockchain and solarpunk. 
-
-Our activities include networking, programming, repairs, technology, knowledge, blogging and content creation, humor and creative writing, HIVE blockchain and videos. 
+Pranz.eu is dedicated to the refinement of internet culture, freedom of speech and internet security. Our activities include networking, programming, repairs, technology, knowledge, blogging and content creation.
 
 [![PranzEduHub github stats](https://github-readme-stats.vercel.app/api?username=PranzEduHub)](https://github.com/anuraghazra/github-readme-stats)
 
